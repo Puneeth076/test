@@ -1,5 +1,0 @@
-{{#user}
-Name: Puneeth M K
-Skills: HTML, CSS, JS, Next.js,React.js, Node.js, Express.js, MongoDB, Mysql, Basics of python and java, Figma for UI design.
-Email: puneethgowda078@gmail.com
-{{/user}}
